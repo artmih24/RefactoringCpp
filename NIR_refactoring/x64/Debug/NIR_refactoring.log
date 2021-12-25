@@ -1,0 +1,6 @@
+﻿  CppCode.cpp
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(54,42): warning C4566: символ, представленный универсальным именем символа "\u20BD", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(54,42): warning C4566: символ, представленный универсальным именем символа "\u20B4", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(58,23): warning C4566: символ, представленный универсальным именем символа "\u20BD", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(58,23): warning C4566: символ, представленный универсальным именем символа "\u20B4", невозможно представить в текущей кодовой странице (1251)
+  NIR_refactoring.vcxproj -> E:\Artem\NIR\NIR_refactoring\NIR_refactoring\x64\Debug\NIR_refactoring.exe
