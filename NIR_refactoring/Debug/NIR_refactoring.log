@@ -1,0 +1,21 @@
+﻿  CppCode.cpp
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(53,42): warning C4566: символ, представленный универсальным именем символа "\u20BD", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(53,42): warning C4566: символ, представленный универсальным именем символа "\u20B4", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(57,23): warning C4566: символ, представленный универсальным именем символа "\u20BD", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(57,23): warning C4566: символ, представленный универсальным именем символа "\u20B4", невозможно представить в текущей кодовой странице (1251)
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(107,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(112,31): warning C4018: <: несоответствие типов со знаком и без знака
+  NIR_refactoring.cpp
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(53,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(67,31): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(70,67): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(75,74): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(78,73): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(86,35): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(119,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\NIR_refactoring.cpp(124,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(45): warning C4715: CppCode::Modify: значение возвращается не при всех путях выполнения
+E:\Artem\NIR\NIR_refactoring\NIR_refactoring\NIR_refactoring\CppCode.cpp(129): error C4716: CppCode::GetMethods: должна возвращать значение

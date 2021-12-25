@@ -1,0 +1,1 @@
+.\NIR_refactoring.exe E:\Artem\NIR\NIR_refactoring\NIR_refactoring\Debug\sources_to_check\test_1\main.cpp
